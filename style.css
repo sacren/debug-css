@@ -29,7 +29,7 @@ pli {
 /* header and footer */
 
 header, footer {
-  background-colour: teal;
+  background-color: teal;
   height: 10em;
   padding: 2em;
 }
